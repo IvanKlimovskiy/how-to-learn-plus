@@ -1,5 +1,6 @@
 .video__iframes {
-  margin-top: 50px;
-  width: 80%;
+  display: flex;
   text-align: center;
+  position: relative;
+  bottom: -50px;
 }
