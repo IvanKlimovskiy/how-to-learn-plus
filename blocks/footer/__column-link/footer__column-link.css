@@ -7,4 +7,9 @@
   color: white;
 }
 
+.footer__column-link:hover {
+  opacity: 0.5;
+  transition: opacity .5s linear;
+}
+
 
