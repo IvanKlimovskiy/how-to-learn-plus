@@ -1,6 +1,5 @@
 .video__iframes {
   display: flex;
-  text-align: center;
   position: relative;
   bottom: -50px;
 }
